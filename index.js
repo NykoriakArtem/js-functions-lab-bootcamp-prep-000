@@ -8,5 +8,5 @@ function happyHolidaysTo(name){
 }
 
 function happyCustomHolidayTo(holiday, name){
-  retrun `Happy ${holiday}, ${name}`;
+  retrun `Happy ${holiday}, ${name}!`;
 }
